@@ -2,7 +2,7 @@
 
 Topics to be covered:
 
-- [Basics of Sql]()
+- [Basics of Sql](https://github.com/b-45/learning-sql/blob/master/Basics-of-Sql.ipynb)
 - String Operations
 - Grouping & Computing Aggregates
 - Subqueries
