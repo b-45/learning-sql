@@ -3,12 +3,12 @@
 Topics to be covered:
 
 - [Basics of SQL](https://github.com/b-45/learning-sql/blob/master/Basics-of-Sql.ipynb)
-- String Operations
+- [String Operations](https://github.com/b-45/learning-sql/blob/master/String-Operations.ipynb)
 - Grouping & Computing Aggregates
-- Subqueries
 - Case Clause
-- Set Operations
+- Subqueries
 - Joining Tables
+- Set Operations
 - Analytics: Window Functions
 
 ---
