@@ -8,7 +8,6 @@ Topics to be covered:
 - [Grouping & Computing Aggregates](https://github.com/b-45/learning-sql/blob/master/Grouping-Computing-Aggregates.ipynb)
 - Case Clause
 - Subqueries
-- Set Operations
 - Analytics: Window Functions
 
 ---
