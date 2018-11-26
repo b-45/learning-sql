@@ -4,7 +4,7 @@ Topics to be covered:
 
 - [Basics of SQL](https://github.com/b-45/learning-sql/blob/master/Basics-of-Sql.ipynb)
 - [String Operations](https://github.com/b-45/learning-sql/blob/master/String-Operations.ipynb)
-- Grouping & Computing Aggregates
+- [Grouping & Computing Aggregates](https://github.com/b-45/learning-sql/blob/master/Grouping-Computing-Aggregates.ipynb)
 - Case Clause
 - Subqueries
 - Joining Tables
