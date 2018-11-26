@@ -6,7 +6,7 @@ Topics to be covered:
 - [String Operations](https://github.com/b-45/learning-sql/blob/master/String-Operations.ipynb)
 - [Joining Tables](https://github.com/b-45/learning-sql/blob/master/Joining-Tables.ipynb)
 - [Grouping & Computing Aggregates](https://github.com/b-45/learning-sql/blob/master/Grouping-Computing-Aggregates.ipynb)
-- Case Clause
+- [Case Clause](https://github.com/b-45/learning-sql/blob/master/Case-Clause.ipynb)
 - Subqueries
 - Analytics: Window Functions
 
