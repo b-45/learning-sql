@@ -8,7 +8,8 @@ Topics to be covered:
 - [Grouping & Computing Aggregates](https://github.com/b-45/learning-sql/blob/master/Grouping-Computing-Aggregates.ipynb)
 - [Case Clause](https://github.com/b-45/learning-sql/blob/master/Case-Clause.ipynb)
 - [Subqueries](https://github.com/b-45/learning-sql/blob/master/Subqueries.ipynb)
-- Analytics: Window Functions
+- [Analytics: Window Functions](https://github.com/b-45/learning-sql/blob/master/Analytics.ipynb)
+
 
 ---
 
